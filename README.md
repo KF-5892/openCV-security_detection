@@ -25,7 +25,7 @@ macOS Catalina
 ターミナルを起動。任意の作業フォルダに移動し、以下を起動
 
 ```
-git clone -r
+git clone https://github.com/KF-5892/openCV-security_detection.git
 pip install -r  requirements.txt
 python camera_check.py 
 ```
